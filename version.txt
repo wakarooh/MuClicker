@@ -1,5 +1,5 @@
 [MuClicker]
-latest=1.0
+latest=1.2
 minimum=1.0
 download=https://github.com/wakarooh/MuClicker
 message=Windows detected that there is new version of the program, please update.
