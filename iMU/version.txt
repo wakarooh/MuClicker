@@ -1,0 +1,7 @@
+[MuClicker]
+latest=1.2
+minimum=1.0
+download=https://github.com/wakarooh/MuClicker/iMU
+status=active
+blocked=
+message=
