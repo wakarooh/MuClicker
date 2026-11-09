@@ -3,5 +3,5 @@ latest=1.2
 minimum=1.0
 download=https://github.com/wakarooh/MuClicker/tree/main/iMU
 status=active
-blocked=This version was blocked by the developer for illegal used.
+blocked=514E-0352-C53E
 message=New version is available. Please update.
