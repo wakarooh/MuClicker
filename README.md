@@ -40,4 +40,6 @@ AutoClicker for MU Online Game Build (Mu Helper)
 - Things to note​
 - Game rules: The help text itself warns that auto clickers may violate the game’s rules, and background-click tools like this are the kind many anti-cheat systems flag.
 
-This was supposedly for InfinityMU Only but one of the staff named Nikki accused me that I stole the code which originally I am the one who wrote the code in AutoIt. 
+This was supposedly for InfinityMU Only but one of the staff named Nikki accused me that I stole the code which I originally wrote the code using AutoIt. 
+
+<a href="https://github.com/wakarooh/MuClicker">Mu Helper Download</a>
